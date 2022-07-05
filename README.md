@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pablo Rodriguez
-- 👀 I’m interested in Shiny, R, and web applications
-- 🌱 I’m currently learning more JS to leverage my skills in the frontend part of Shiny, and also ReactJS and other JS solutions (Express, Node, Next)
+- 👀 I’m interested in Shiny, R, React, NextJS and other web apps techs.
 - 💞️ I’m looking to collaborate on projects that involve app development using Shiny or Js technologies
 - 📫 How to reach me ...
 
