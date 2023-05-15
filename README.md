@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pablo Rodriguez
-- 👀 Currently working as an Intern FrontEnd Engineer at Toptal
-- 💞️ React, ExpressJS, NextJS, R, Shiny
+- 👀 Currently working as an Junior Front End Engineer at Toptal
+- 💞️ React, Typescript, NextJS, R, Shiny
 - 📫 How to reach me ...
 
 <!---
